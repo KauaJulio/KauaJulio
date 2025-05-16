@@ -1,5 +1,5 @@
 ## Fala, pessoa! Sou Kaua Julio e atualmente trabalho com Seguranca da Informacao. (nao sou desenvolvedor)
-De uma olhada no meu [portifolio](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+De uma olhada no [meu_portifolio.com]( https://kauajulio.github.io/portfolio-kj/ )!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
