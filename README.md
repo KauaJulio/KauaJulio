@@ -1,7 +1,7 @@
-# Fala, Pessoa, eu sou Kaua Julio! 👋
-Atualmente trabalho com Seguranca da Informacao.
+# Fala, Pessoa, eu sou Kauã Júlio! 👋
+🔒 Atualmente trabalho com Segurança da Informação.
 ###
-De uma olhada no [meu_portifolio.com](https://kauajulio.github.io/portfolio-kj/)
+Dê uma olhada no [meu_portifolio.com](https://kauajulio.github.io/portfolio-kj/)
 
 ## Linguagens e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,linux,git)](https://github.com/levi985)
