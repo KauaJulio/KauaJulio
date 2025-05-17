@@ -4,7 +4,7 @@
 Dê uma olhada no [meu_portifolio.com](https://kauajulio.github.io/portfolio-kj/)
 
 ## Linguagens e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,linux,git)](https://github.com/levi985)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,linux,git)](https://github.com/KauaJulio)
  <div style="flex-basis: 48%;">
       <br> 
 
