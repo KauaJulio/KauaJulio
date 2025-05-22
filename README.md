@@ -32,7 +32,5 @@ Dê uma olhada no [meu_portifolio.com](https://kauajulio.github.io/portfolio-kj/
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KauaJulio/KauaJulio/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KauaJulio/KauaJulio/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 <br><br>
 
