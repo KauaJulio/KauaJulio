@@ -27,12 +27,6 @@ Dê uma olhada no [meu_portifolio.com](https://kauajulio.github.io/portfolio-kj/
 <img width="45%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaJulio&layout=compact&theme=transparent">
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KauaJulio/KauaJulio/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KauaJulio/KauaJulio/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KauaJulio/KauaJulio/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<img src="https://raw.githubusercontent.com/KauaJulio/KauaJulio/output/snake.svg" alt="Snake animation" />
 <br><br>
 
